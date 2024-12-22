@@ -7,6 +7,7 @@ const typedfield = document.getElementById("typed");
 const wrap = document.getElementById("wrap");
 const start = document.getElementById("start");
 const scoreTotal = document.getElementById("score");
+const count = document.getElementById("count");
 
 const textLists = [
   "console.log",

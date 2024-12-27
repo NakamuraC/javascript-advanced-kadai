@@ -25,7 +25,7 @@ body {
   background-color: red;
 }
 
-.score {
+#scoreNumber {
   margin: 0;
   font-weight: bold;
   color: #888;
